@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BattleBots2_0LimitedAmmo-master/BattleBots2_0_ammolimited"/>
+	<classpathentry kind="output" path="BattleBots2_0LimitedAmmo-master/BattleBots2_0_ammolimited"/>
+</classpath>
